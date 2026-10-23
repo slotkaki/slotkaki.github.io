@@ -1,0 +1,24 @@
+# SlotKaki crypto guide
+
+> SlotKaki accepts crypto deposits in USDT, BTC and ETH. The deposit counter inside your account on slotkaki.org shows a wallet address and a network for each request. Send only on that network, because crypto transfers cannot be reversed. Your balance is kept in ringgit, and crypto withdrawals are paid in the coin you deposited.
+
+Independent payment guides for SlotKaki players in Malaysia. Operator: Starlink International N.V., Curaçao. Official site: https://slotkaki.org/
+Limits, fees and promotions are not listed because they change; they are shown at the counter inside the account.
+
+## Pages
+
+- [SlotKaki Crypto Casino Malaysia: Deposit USDT, BTC or ETH](https://slotkaki.github.io/): SlotKaki crypto casino guide for Malaysia: deposit USDT, BTC or ETH, choose the right network, keep your TxID and receive crypto withdrawals.
+- [SlotKaki Kasino Kripto Malaysia: Deposit USDT, BTC atau ETH](https://slotkaki.github.io/ms/): SlotKaki kasino kripto untuk Malaysia: deposit USDT, BTC atau ETH, pilih rangkaian yang betul, simpan TxID dan terima pengeluaran kripto.
+- [Crypto Betting Malaysia: Fund Sports Bets with USDT](https://slotkaki.github.io/crypto-betting/): Crypto betting at SlotKaki: how a USDT, BTC or ETH deposit funds sports bets, how to read decimal odds, how turnover works and how crypto withdrawals are paid.
+- [Taruhan Kripto Malaysia: Taruhan Sukan dengan USDT](https://slotkaki.github.io/ms/taruhan-kripto/): Taruhan kripto di SlotKaki: cara deposit USDT, BTC atau ETH membiayai taruhan sukan, membaca odds perpuluhan, maksud turnover dan pengeluaran kripto.
+
+## Key facts
+
+- Which cryptocurrencies does SlotKaki accept? USDT, BTC and ETH. The counter shows which coins and networks are open for your account.
+- Is my balance kept in crypto? No. SlotKaki accounts work in Malaysian ringgit (MYR). Crypto deposit details are shown at the counter.
+- Can I withdraw in a different coin? Crypto withdrawals are paid in the coin you deposited. For anything else, the counter shows which withdrawal methods are open to you.
+- Is there a crypto bonus? Promotions change, so none are listed here. Read the current terms inside your account before accepting any bonus, because bonus wagering rules can delay withdrawals.
+- Can I bet directly in USDT? No. Crypto deposits are credited to a ringgit balance, and bets are placed from that balance.
+- Which sports can I bet on? The sports section lists the current matches and markets, which change with the sporting calendar.
+- Do sports bets count towards turnover? Yes. Turnover is the total amount staked across all sections.
+- Is crypto betting legal where I live? Laws differ from place to place. Check the rules that apply to you before you play.
